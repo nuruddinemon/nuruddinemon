@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! My name is Nur Uddin Emon and I'm a frontend developer.</h2>
+<h2 align="center">Try to learn something new</h2>
 
 ###
 
