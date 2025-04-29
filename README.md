@@ -1,5 +1,5 @@
 # 💫 About Me:
-### Frontend Developer | Content Creator
+### Web Designer | Frontend Developer 
 
 
 ## 🌐 Socials:
